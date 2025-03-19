@@ -1,4 +1,4 @@
-# Victor Hugo
+# Victor Hugo🚀🚀🚀🚀🚀🚀🚀
 
 ### Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-lopes-carlos-4b9175352/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorhugolc.2611@gmail.com)
@@ -15,3 +15,4 @@
 ### GitHub
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitaochorao)
 
+![Victor Status GitHub](https://github-readme-stats.vercel.app/api?username=vitaochorao&show_icons=true&theme=tokyonight)

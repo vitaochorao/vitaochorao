@@ -18,3 +18,11 @@
 ![Victor Status GitHub](https://github-readme-stats.vercel.app/api?username=vitaochorao&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaochorao&layout=compact)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitaochorao/vitaochorao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitaochorao/vitaochorao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitaochorao/vitaochorao/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!--A COBRA TA MAGRA KKKKKK-->
